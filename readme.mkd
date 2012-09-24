@@ -1,0 +1,5 @@
+# xmonad-config
+
+xmonad configuration.
+
+Copyright 2009-2012 Tom Vincent <http://tlvince.com/contact>
